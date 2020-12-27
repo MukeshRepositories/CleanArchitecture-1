@@ -21,11 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Domain", "BlazorHero.CleanArchitecture.Domain\BlazorHero.CleanArchitecture.Domain.csproj", "{5D667526-5203-4F91-B144-C786253AD671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Application", "..\BlazorHero.CleanArchitecture.Application\BlazorHero.CleanArchitecture.Application.csproj", "{66E568A8-6E88-4422-9FC2-26C760D8E6F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Application", "BlazorHero.CleanArchitecture.Application\BlazorHero.CleanArchitecture.Application.csproj", "{66E568A8-6E88-4422-9FC2-26C760D8E6F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Services", "..\BlazorHero.CleanArchitecture.Services\BlazorHero.CleanArchitecture.Services.csproj", "{307409EE-D292-4A4D-A505-1D14DB1936AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Services", "BlazorHero.CleanArchitecture.Services\BlazorHero.CleanArchitecture.Services.csproj", "{307409EE-D292-4A4D-A505-1D14DB1936AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Infrastructure", "..\BlazorHero.CleanArchitecture.Infrastructure\BlazorHero.CleanArchitecture.Infrastructure.csproj", "{8521DC66-BC22-43CD-9E79-2A98550EBEE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHero.CleanArchitecture.Infrastructure", "BlazorHero.CleanArchitecture.Infrastructure\BlazorHero.CleanArchitecture.Infrastructure.csproj", "{8521DC66-BC22-43CD-9E79-2A98550EBEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
